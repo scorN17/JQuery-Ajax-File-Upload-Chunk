@@ -1,4 +1,4 @@
-
+<?php
 	if($action=='fileChunkUpload')
 	{
 		$fs= intval($_GET['fs']);
